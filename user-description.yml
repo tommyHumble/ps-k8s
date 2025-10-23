@@ -1,4 +1,5 @@
 user:
+  name: "tommyHumble"
   admin: true
   age: 30
   position: engineer
